@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Google Translate API' target in the 'Google Translate API' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

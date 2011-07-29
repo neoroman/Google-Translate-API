@@ -1,0 +1,196 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* Google_Translate_APIAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {913, 621}}";
+			sepNavSelRange = "{437, 0}";
+			sepNavVisRange = "{0, 501}";
+		};
+	};
+	1D3623250D0F684500981E51 /* Google_Translate_APIAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {913, 2731}}";
+			sepNavSelRange = "{480, 0}";
+			sepNavVisRange = "{0, 681}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Google Translate API */ = {
+		activeExec = 0;
+		executables = (
+			DF135BAB1239D888006F5344 /* Google Translate API */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = DF135BAB1239D888006F5344 /* Google Translate API */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Google Translate API */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Google Translate API */,
+		);
+		codeSenseManager = DF135BC11239D898006F5344 /* Code sense */;
+		executables = (
+			DF135BAB1239D888006F5344 /* Google Translate API */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					735,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 305835427;
+			PBXWorkspaceStateSaveDate = 305835427;
+		};
+		perUserProjectItems = {
+			DFE20A1E1239E1BC00D4F3F3 /* PBXTextBookmark */ = DFE20A1E1239E1BC00D4F3F3 /* PBXTextBookmark */;
+			DFE20A1F1239E1BC00D4F3F3 /* PBXTextBookmark */ = DFE20A1F1239E1BC00D4F3F3 /* PBXTextBookmark */;
+			DFE20A201239E1BC00D4F3F3 /* PBXTextBookmark */ = DFE20A201239E1BC00D4F3F3 /* PBXTextBookmark */;
+			DFE20A211239E1BC00D4F3F3 /* PBXTextBookmark */ = DFE20A211239E1BC00D4F3F3 /* PBXTextBookmark */;
+			DFE20A241239E1BC00D4F3F3 /* PBXTextBookmark */ = DFE20A241239E1BC00D4F3F3 /* PBXTextBookmark */;
+			DFED1C03123AADAB007715FE /* PBXTextBookmark */ = DFED1C03123AADAB007715FE /* PBXTextBookmark */;
+		};
+		sourceControlManager = DF135BC01239D898006F5344 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	DF135BAB1239D888006F5344 /* Google Translate API */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Google Translate API";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	DF135BC01239D898006F5344 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	DF135BC11239D898006F5344 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DF135BD01239D8E7006F5344 /* GoogleTranslateAPI.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {913, 1136}}";
+			sepNavSelRange = "{1482, 0}";
+			sepNavVisRange = "{734, 756}";
+		};
+	};
+	DF135BD11239D8E7006F5344 /* GoogleTranslateAPI.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {913, 3070}}";
+			sepNavSelRange = "{1133, 0}";
+			sepNavVisRange = "{729, 1166}";
+		};
+	};
+	DFE20A1E1239E1BC00D4F3F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Google_Translate_APIAppDelegate.h */;
+		name = "Google_Translate_APIAppDelegate.h: 20";
+		rLen = 0;
+		rLoc = 437;
+		rType = 0;
+		vrLen = 501;
+		vrLoc = 0;
+	};
+	DFE20A1F1239E1BC00D4F3F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DF135BD01239D8E7006F5344 /* GoogleTranslateAPI.h */;
+		name = "GoogleTranslateAPI.h: 57";
+		rLen = 0;
+		rLoc = 1482;
+		rType = 0;
+		vrLen = 756;
+		vrLoc = 734;
+	};
+	DFE20A201239E1BC00D4F3F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DF135BD11239D8E7006F5344 /* GoogleTranslateAPI.m */;
+		name = "GoogleTranslateAPI.m: 42";
+		rLen = 0;
+		rLoc = 1133;
+		rType = 0;
+		vrLen = 1166;
+		vrLoc = 729;
+	};
+	DFE20A211239E1BC00D4F3F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DFE20A221239E1BC00D4F3F3 /* UIAlertView.h */;
+		name = "UIAlertView.h: 133";
+		rLen = 0;
+		rLoc = 5662;
+		rType = 0;
+		vrLen = 1679;
+		vrLoc = 4208;
+	};
+	DFE20A221239E1BC00D4F3F3 /* UIAlertView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIAlertView.h;
+		path = "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h";
+		sourceTree = "<absolute>";
+	};
+	DFE20A241239E1BC00D4F3F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Google_Translate_APIAppDelegate.m */;
+		name = "Google_Translate_APIAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 480;
+		rType = 0;
+		vrLen = 865;
+		vrLoc = 665;
+	};
+	DFED1C03123AADAB007715FE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Google_Translate_APIAppDelegate.m */;
+		name = "Google_Translate_APIAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 480;
+		rType = 0;
+		vrLen = 681;
+		vrLoc = 0;
+	};
+}

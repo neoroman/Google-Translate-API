@@ -1,0 +1,246 @@
+TGoogle Translate API
+v7
+r0
+t305782356.456461
+cCheck dependencies
+cProcessInfoPlistFile "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/Info.plist" Google_Translate_API-Info.plist
+cCompileXIB "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/MainWindow.xib"
+cProcessPCH /var/folders/GH/GHn0vaKmGe44qdd6gkbwY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Google_Translate_API_Prefix-cbyhwgvxfopzttajagihlqtxqltu/Google_Translate_API_Prefix.pch.gch Google_Translate_API_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Objects-normal/i386/main.o" "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Objects-normal/i386/Google_Translate_APIAppDelegate.o" "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/Classes/Google_Translate_APIAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Objects-normal/i386/GoogleTranslateAPI.o" "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/GoogleTranslateAPI/GoogleTranslateAPI.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/Google Translate API" normal i386
+cGenerateDSYMFile "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app.dSYM" "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/Google Translate API"
+cTouch "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app"
+
+N/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/timothy5216/XcodeProjects/Playground/Google Translate API/Classes/Google_Translate_APIAppDelegate.h
+c000000004C89A4A500000000000001F5
+t1284088997
+s501
+i<UIKit/UIKit.h>
+i"GoogleTranslateAPI.h"
+
+N/Users/timothy5216/XcodeProjects/Playground/Google Translate API/Classes/Google_Translate_APIAppDelegate.m
+c000000004C89A69B0000000000000E08
+t1284089499
+s3592
+i"Google_Translate_APIAppDelegate.h"
+
+N/Users/timothy5216/XcodeProjects/Playground/Google Translate API/GoogleTranslateAPI/GoogleTranslateAPI.h
+c000000004C8914C400000000000005D2
+t1284052164
+s1490
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/timothy5216/XcodeProjects/Playground/Google Translate API/GoogleTranslateAPI/GoogleTranslateAPI.m
+c000000004C891BF500000000000012FB
+t1284054005
+s4859
+i"GoogleTranslateAPI.h"
+
+N/Users/timothy5216/XcodeProjects/Playground/Google Translate API/Google_Translate_API_Prefix.pch
+c000000004C89A10700000000000000D1
+t1284088071
+s209
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/timothy5216/XcodeProjects/Playground/Google Translate API/MainWindow.xib
+c000000004C89A6D00000000000007701
+t1284089552
+s30465
+
+N/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app
+t1284089556
+s204
+
+N/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app.dSYM
+t1284089500
+s102
+
+N/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/Google Translate API
+t1284089500
+s25600
+
+N/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/Info.plist
+t1284088997
+s649
+
+N/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/MainWindow.nib
+t1284089556
+s4952
+
+N/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/PkgInfo
+t1284088997
+s8
+
+N/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Objects-normal/i386/Google Translate API.LinkFileList
+c000000004C89A4A50000000000000233
+t1284088997
+s563
+
+N/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Objects-normal/i386/GoogleTranslateAPI.o
+t1284089002
+s28576
+
+N/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Objects-normal/i386/Google_Translate_APIAppDelegate.o
+t1284089500
+s56832
+
+N/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Objects-normal/i386/main.o
+t1284089002
+s6376
+
+N/Users/timothy5216/XcodeProjects/Playground/Google Translate API/main.m
+c000000004C89A1070000000000000170
+t1284088071
+s368
+i<UIKit/UIKit.h>
+
+N/var/folders/GH/GHn0vaKmGe44qdd6gkbwY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Google_Translate_API_Prefix-cbyhwgvxfopzttajagihlqtxqltu/Google_Translate_API_Prefix.pch.gch
+t1284089002
+s15207440
+
+N/var/folders/GH/GHn0vaKmGe44qdd6gkbwY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Google_Translate_API_Prefix-chssmlehrgtauoeciqfhfkrmzpfq/Google_Translate_API_Prefix.pch.gch
+t2
+s0
+
+NGoogle_Translate_API-Info.plist
+c000000004C89AE730000000000000376
+t1284091507
+s886
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies305782355#305782355#0(0"0(0#1#0"8614803328#0"0#
+
+CCompileC "build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Objects-normal/i386/GoogleTranslateAPI.o" "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/GoogleTranslateAPI/GoogleTranslateAPI.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s305781802.742943
+e305781802.860929
+r1
+xCompileC
+xbuild/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Objects-normal/i386/GoogleTranslateAPI.o
+x/Users/timothy5216/XcodeProjects/Playground/Google Translate API/GoogleTranslateAPI/GoogleTranslateAPI.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/timothy5216/XcodeProjects/Playground/Google Translate API/GoogleTranslateAPI/GoogleTranslateAPI.m305781802#305781802#0(0"0(0#0#104"/Users/timothy5216/XcodeProjects/Playground/Google Translate API/GoogleTranslateAPI/GoogleTranslateAPI.m7453298259849932800#2615"    cd "/Users/timothy5216/XcodeProjects/Playground/Google Translate API"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Google Translate API-generated-files.hmap" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Google Translate API-own-target-headers.hmap" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Google Translate API-all-target-headers.hmap" -iquote "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Google Translate API-project-headers.hmap" "-F/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/include" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/DerivedSources/i386" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/DerivedSources" -include /var/folders/GH/GHn0vaKmGe44qdd6gkbwY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Google_Translate_API_Prefix-cbyhwgvxfopzttajagihlqtxqltu/Google_Translate_API_Prefix.pch -c "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/GoogleTranslateAPI/GoogleTranslateAPI.m" -o "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Objects-normal/i386/GoogleTranslateAPI.o"0#
+
+CCompileC "build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Objects-normal/i386/Google_Translate_APIAppDelegate.o" "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/Classes/Google_Translate_APIAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s305782300.691048
+e305782300.877204
+r1
+xCompileC
+xbuild/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Objects-normal/i386/Google_Translate_APIAppDelegate.o
+x/Users/timothy5216/XcodeProjects/Playground/Google Translate API/Classes/Google_Translate_APIAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/timothy5216/XcodeProjects/Playground/Google Translate API/Classes/Google_Translate_APIAppDelegate.m305782300#305782300#0(0"0(0#0#106"/Users/timothy5216/XcodeProjects/Playground/Google Translate API/Classes/Google_Translate_APIAppDelegate.m8618586272#2630"    cd "/Users/timothy5216/XcodeProjects/Playground/Google Translate API"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Google Translate API-generated-files.hmap" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Google Translate API-own-target-headers.hmap" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Google Translate API-all-target-headers.hmap" -iquote "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Google Translate API-project-headers.hmap" "-F/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/include" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/DerivedSources/i386" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/DerivedSources" -include /var/folders/GH/GHn0vaKmGe44qdd6gkbwY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Google_Translate_API_Prefix-cbyhwgvxfopzttajagihlqtxqltu/Google_Translate_API_Prefix.pch -c "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/Classes/Google_Translate_APIAppDelegate.m" -o "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Objects-normal/i386/Google_Translate_APIAppDelegate.o"0#
+
+CCompileC "build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Objects-normal/i386/main.o" "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s305781802.494220
+e305781802.751474
+r1
+xCompileC
+xbuild/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Objects-normal/i386/main.o
+x/Users/timothy5216/XcodeProjects/Playground/Google Translate API/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/timothy5216/XcodeProjects/Playground/Google Translate API/main.m305781802#305781802#0(0"0(0#0#71"/Users/timothy5216/XcodeProjects/Playground/Google Translate API/main.m8612895008#2568"    cd "/Users/timothy5216/XcodeProjects/Playground/Google Translate API"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Google Translate API-generated-files.hmap" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Google Translate API-own-target-headers.hmap" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Google Translate API-all-target-headers.hmap" -iquote "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Google Translate API-project-headers.hmap" "-F/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/include" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/DerivedSources/i386" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/DerivedSources" -include /var/folders/GH/GHn0vaKmGe44qdd6gkbwY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Google_Translate_API_Prefix-cbyhwgvxfopzttajagihlqtxqltu/Google_Translate_API_Prefix.pch -c "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/main.m" -o "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/MainWindow.xib"
+s305782355.174213
+e305782356.449375
+r1
+xCompileXIB
+x/Users/timothy5216/XcodeProjects/Playground/Google Translate API/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib305782355#305782356#0(0"0(0#0#79"/Users/timothy5216/XcodeProjects/Playground/Google Translate API/MainWindow.xib8613108128#753"    cd "/Users/timothy5216/XcodeProjects/Playground/Google Translate API"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer Beta/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/MainWindow.nib" "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/MainWindow.xib" --sdk "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk"0#
+
+CGenerateDSYMFile "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app.dSYM" "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/Google Translate API"
+s305782300.951627
+e305782301.035068
+r1
+xGenerateDSYMFile
+x/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app.dSYM
+x/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/Google Translate API
+lSLF07#2@152"GenerateDSYMFile "build/Debug-iphonesimulator/Google Translate API.app.dSYM" "build/Debug-iphonesimulator/Google Translate API.app/Google Translate API"305782300#305782301#0(0"0(0#0#138"/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/Google Translate API8613180992#585"    cd "/Users/timothy5216/XcodeProjects/Playground/Google Translate API"    setenv PATH "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer Beta/usr/bin/dsymutil" "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/Google Translate API" -o "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app.dSYM"0#
+
+CLd "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/Google Translate API" normal i386
+s305782300.877300
+e305782300.951413
+r1
+xLd
+x/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/Google Translate API
+xnormal
+xi386
+lSLF07#2@143"Link /Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/Google Translate API305782300#305782300#0(0"0(0#0#0"8614169216#1191"    cd "/Users/timothy5216/XcodeProjects/Playground/Google Translate API"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -arch i386 -isysroot "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" "-L/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator" "-F/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator" -filelist "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Objects-normal/i386/Google Translate API.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/Google Translate API"0#
+
+CProcessInfoPlistFile "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/Info.plist" Google_Translate_API-Info.plist
+s305781797.861589
+e305781797.898738
+r1
+xProcessInfoPlistFile
+x/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/Info.plist
+xGoogle_Translate_API-Info.plist
+lSLF07#2@39"Process Google_Translate_API-Info.plist305781797#305781797#0(0"0(0#0#96"/Users/timothy5216/XcodeProjects/Playground/Google Translate API/Google_Translate_API-Info.plist7811334602423755776#674"    cd "/Users/timothy5216/XcodeProjects/Playground/Google Translate API"    setenv PATH "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Google_Translate_API-Info.plist -genpkginfo "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app/Info.plist"0#
+
+CProcessPCH /var/folders/GH/GHn0vaKmGe44qdd6gkbwY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Google_Translate_API_Prefix-cbyhwgvxfopzttajagihlqtxqltu/Google_Translate_API_Prefix.pch.gch Google_Translate_API_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s305781801.022066
+e305781802.494079
+r1
+xProcessPCH
+x/var/folders/GH/GHn0vaKmGe44qdd6gkbwY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Google_Translate_API_Prefix-cbyhwgvxfopzttajagihlqtxqltu/Google_Translate_API_Prefix.pch.gch
+xGoogle_Translate_API_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile Google_Translate_API_Prefix.pch305781801#305781802#0(0"0(0#0#96"/Users/timothy5216/XcodeProjects/Playground/Google Translate API/Google_Translate_API_Prefix.pch8612837536#2419"    cd "/Users/timothy5216/XcodeProjects/Playground/Google Translate API"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Google Translate API-generated-files.hmap" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Google Translate API-own-target-headers.hmap" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Google Translate API-all-target-headers.hmap" -iquote "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/Google Translate API-project-headers.hmap" "-F/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/include" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/DerivedSources/i386" "-I/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Google Translate API.build/Debug-iphonesimulator/Google Translate API.build/DerivedSources" -c "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/Google_Translate_API_Prefix.pch" -o /var/folders/GH/GHn0vaKmGe44qdd6gkbwY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Google_Translate_API_Prefix-cbyhwgvxfopzttajagihlqtxqltu/Google_Translate_API_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/GH/GHn0vaKmGe44qdd6gkbwY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Google_Translate_API_Prefix-chssmlehrgtauoeciqfhfkrmzpfq/Google_Translate_API_Prefix.pch.gch Google_Translate_API_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app"
+s305782356.450232
+e305782356.456403
+r1
+xTouch
+x/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app
+lSLF07#2@123"Touch /Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app305782356#305782356#0(0"0(0#0#0"8613605760#419"    cd "/Users/timothy5216/XcodeProjects/Playground/Google Translate API"    setenv PATH "/Developer Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer Beta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/timothy5216/XcodeProjects/Playground/Google Translate API/build/Debug-iphonesimulator/Google Translate API.app"0#
+
