@@ -61,7 +61,7 @@
 #pragma mark UIAlertViewDelegate
 - (void)alertView:(UIAlertView *)alertView didDismissWithButtonIndex:(NSInteger)buttonIndex; 
 {
-	if (alertView.tag = 9000) {
+	if (alertView.tag == 9000) {
 		if (buttonIndex == 1) {
 			[textView setText:alertView.message];
 		}

@@ -84,7 +84,7 @@ NSString *CurrentLanguageCode()
 
 - (void)connection:(NSURLConnection *)connection didReceiveData:(NSData *)data
 {
-	_responseString = [[NSString alloc] initWithData:data encoding:NSASCIIStringEncoding];
+	_responseString = [[NSString alloc] initWithData:data encoding:NSUTF8StringEncoding];
 	//NSLog(@"LOL WUT?x2: %@",_responseString);
 }
 
